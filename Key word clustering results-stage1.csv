@@ -1,0 +1,1878 @@
+﻿0,chronometric cognitive tests,chronometric cognitive tests
+1,face state video recognition,face state video recognition
+2,eye tracker,eye tracker
+3,angular velocity,angular velocity
+4,vehicle-related measurements,vehicle-related measurements
+5,eye blinking rate,eye blinking rate
+5,eye blinks rate,eye blinking rate
+5,average eyes blinking time,eye blinking rate
+5,eye blink rate,eye blinking rate
+6,biosignal sensors,biosignal sensors
+7,breath rate,breath rate
+8,traditional image processing,traditional image processing
+9,facial action analysis,facial behavior analysis
+9,facial behavior,facial behavior analysis
+9,facial behavior analysis,facial behavior analysis
+10,body posture,body posture
+10,body posture analysis,body posture
+11,steering corrections,steering corrections
+12,facial photographs,facial images
+12,facial image,facial images
+12,facial images,facial images
+13,electroencephalography,electroencephalogram
+13,electroencephalograph,electroencephalogram
+13,electroencephalograms,electroencephalogram
+13,electroencephalogram,electroencephalogram
+14,ir images,infrared images
+14,infrared image,infrared images
+14,infrared images,infrared images
+15,yawning detection,yawning detection
+15,yawn detection,yawning detection
+16,subjective fatigue reporting,subjective fatigue report
+16,subjective fatigue report,subjective fatigue report
+16,subjective fatigue ratings,subjective fatigue report
+17,facial landmarks analysis,facial landmarks detection
+17,facial landmark detection,facial landmarks detection
+17,facial landmarks detection,facial landmarks detection
+18,microwave doppler radar,microwave doppler radar
+19,heartbeat measurement,heartbeat measurement
+20,mouth,mouth
+21,lane position variability,lane position variability
+21,lateral lane position variability,lane position variability
+22,eye closeness,eye closeness
+23,visual features,visual features
+23,visual-feature,visual features
+24,pupillography (pupil unrest index),pupillography (pupil unrest index)
+25,vehicle driving data,vehicle driving data
+25,driving data,vehicle driving data
+26,rppg,rppg
+27,video camera,video camera
+28,respiratory signal analysis,respiratory signal
+28,respiratory signals,respiratory signal
+28,breathing signal,respiratory signal
+28,respiratory signal,respiratory signal
+29,accelerometers,accelerometers
+29,accelerometer,accelerometers
+30,subjective rating,subjective rating
+30,subjective ratings,subjective rating
+31,polygraph (pg),polygraph (pg)
+32,head movement,head movement
+32,head motion,head movement
+32,head-movement,head movement
+32,head movements,head movement
+33,perclos measurement,perclos measurement
+33,perclos index measurement,perclos measurement
+34,spectrum entropy,spectrum entropy
+35,physiological data readings,physiological data readings
+35,physiological data,physiological data readings
+35,physiological data acquisition,physiological data readings
+36,grip pressure,grip pressure
+37,steering wheel motion,steering wheel motion
+38,mouth movement detection,mouth movement detection
+38,mouth movement analysis,mouth movement detection
+39,closed eye duration,closed eye duration
+40,eye movement measures,eye movement measures
+40,eye-movement frequency,eye movement measures
+40,eye-movement measurement,eye movement measures
+40,eye movement parameters,eye movement measures
+41,subjective sleepiness ratings,subjective sleepiness ratings
+41,sleepiness ratings,subjective sleepiness ratings
+42,body acceleration,body acceleration
+43,skin tone,skin tone
+44,sdlat,sdlat
+45,eye aspect ratio,eye aspect ratio
+45,eye aspect ratios,eye aspect ratio
+46,reflective photoplethysmography,reflective photoplethysmography
+47,temperature measurement,temperature measurement
+48,surface emg,surface emg
+49,eyelid activity,eyelid movements
+49,eyelid movements,eyelid movements
+49,eyelid movement,eyelid movements
+49,amplitude of eyelid movements,eyelid movements
+50,equipment-based data,equipment-based data
+51,facial features detection,facial features detection
+51,facial feature detection,facial features detection
+52,reaction time variables,reaction time variables
+53,task performance,task performance
+54,pro-saccades,pro-saccades
+55,statistics of blink duration,blink duration
+55,blink interval,blink duration
+55,mean blink duration,blink duration
+55,blink duration,blink duration
+55,eye blink duration,blink duration
+55,blink time calculation,blink duration
+55,blink interval duration,blink duration
+55,blinking duration,blink duration
+55,blink duration time,blink duration
+56,psychomotor vigilance test,psychomotor vigilance test
+56,3-min psychomotor vigilance test,psychomotor vigilance test
+57,contact sensors,contact sensors
+58,wrist activity,wrist activity
+59,speech techniques,speech techniques
+60,driving behavior,driving behavior
+60,driving behaviors,driving behavior
+61,color and intensity mapping,color and intensity mapping
+62,electrooculography,electrooculography
+63,gabor wavelet filter,gabor wavelet filter
+64,fixation time,fixation time
+65,galvanic skin resistance,galvanic skin resistance
+66,hough transformation,hough transformation
+67,lane departure,lane departure
+68,speed monitoring,speed monitoring
+69,acoustic signals,acoustic signals
+70,image recognition,image recognition
+71,behavioral data,behavioral data
+72,seat pressure,seat pressure
+72,seat interface pressure,seat pressure
+72,pressure between driver and seat,seat pressure
+73,pulse wave velocity,pulse wave velocity
+74,gray scale projection,gray scale projection
+74,horizontal gray-level projection,gray scale projection
+75,pupil size,pupil diameter
+75,pupil diameter size,pupil diameter
+75,average pupil diameter,pupil diameter
+75,initial pupil diameter,pupil diameter
+75,pupil diameter,pupil diameter
+75,pupil size variation,pupil diameter
+75,relative pupil diameter,pupil diameter
+75,pupillary diameter,pupil diameter
+76,facial rotary angle,facial rotary angle
+77,hrv,hrv
+78,questionnaires,questionnaire
+78,questionnaire,questionnaire
+79,lf,lf
+80,viola-jones method,viola-jones method
+80,viola and jones method,viola-jones method
+81,facial landmark-based,facial landmark features
+81,facial landmarks,facial landmark features
+81,facial landmark features,facial landmark features
+81,facial landmark,facial landmark features
+82,face emotion recognition,emotion recognition
+82,emotion recognition,emotion recognition
+83,mackworth clock test,mackworth clock test
+84,head orientation,head orientation
+85,skin conductance (sc),skin conductance (sc)
+85,skin conductance response,skin conductance (sc)
+86,heart rate,heart rate
+86,heart beat rate,heart rate
+86,heart rates,heart rate
+87,vehicle kinematics signals,vehicle kinematics signals
+88,haar-like algorithm,haar-like algorithm
+88,haar algorithm,haar-like algorithm
+89,electrocardiogram (ecg),electrocardiograph (ecg)
+89,electrocardiography (ecg),electrocardiograph (ecg)
+89,electrocardiograph,electrocardiograph (ecg)
+89,electrocardiograph (ecg),electrocardiograph (ecg)
+90,semi-dry electrode,semi-dry electrode
+91,gas pedal,gas pedal
+92,gsr,gsr
+93,behavioural gestures,behavioural gestures
+94,respiration,respiration
+95,critical flicker fusion frequency (cff) test,critical flicker fusion frequency (cff) test
+95,critical flicker fusion (cff),critical flicker fusion frequency (cff) test
+95,critical flicker fusion frequency,critical flicker fusion frequency (cff) test
+96,perclos p80,perclos p80
+97,ir sensor,infrared (ir) sensor
+97,infrared (ir) sensor,infrared (ir) sensor
+97,infrared sensor,infrared (ir) sensor
+98,activity monitors,activity monitors
+98,activity monitor,activity monitors
+99,blood oxygen saturation,blood oxygen saturation
+100,rgb cameras,rgb camera
+100,rgb colour camera,rgb camera
+100,rgb camera,rgb camera
+101,block local-binary-pattern features,block local-binary-pattern features
+102,hand pressure sensors,hand pressure sensors
+103,blink detection,blink detection
+103,blink tracking,blink detection
+104,head pose recognition,head pose estimation
+104,3d head pose estimation,head pose estimation
+104,head pose estimation,head pose estimation
+105,histogram of oriented gradients (hog),histogram oriented gradient (hog)
+105,histogram oriented gradient (hog),histogram oriented gradient (hog)
+106,salivary assay,salivary assay
+107,eye closure time,eye closure time
+107,eye closure duration,eye closure time
+108,final speed,final speed
+109,nds,nds
+110,eye status analysis,eye status analysis
+110,eye status,eye status analysis
+111,diaries,diaries
+112,eye state detection,eye state detection
+112,eye states detection,eye state detection
+112,eye state classification,eye state detection
+113,samn-perelli fatigue ratings,samn-perelli fatigue ratings
+114,inertial motion sensing,inertial motion sensing
+115,head movement monitoring,head movement monitoring
+115,head posture monitoring,head movement monitoring
+116,infrared oculography,infrared oculography
+117,pvt,pvt
+118,actigraphs,actigraphs
+118,actigraph,actigraphs
+119,adaboost algorithm,adaboost algorithm
+120,bvp,bvp
+121,mouth opening ratio (mor),mouth opening ratio (mor)
+122,inspiration duration,inspiration duration
+123,tracking data,tracking data
+124,velocity,velocity
+125,photoplethysmogram (ppg) signal,photoplethysmogram (ppg) signal
+125,photoplethysmogram (ppg),photoplethysmogram (ppg) signal
+126,anthropometric measures,anthropometric measures
+126,anthropometric measurements,anthropometric measures
+127,principal component analysis,principal component analysis
+128,video analysis,video analysis
+128,video image analysis,video analysis
+129,vertical neck bending angles,vertical neck bending angles
+129,neck bending angle,vertical neck bending angles
+129,horizontal neck bending angles,vertical neck bending angles
+130,face video,face video
+131,sound,sound
+132,oximeter,oximeter
+133,kalman filtering,kalman filtering
+133,kalman filter,kalman filtering
+134,video images,video images
+135,depth maps,depth map
+135,depth map,depth map
+136,postural changes,postural changes
+137,line crossings,inappropriate line crossings
+137,inappropriate line crossings,inappropriate line crossings
+138,obd-ii,obd-ii
+139,k-means clustering,k-means clustering
+140,wavelets transform,wavelets transform
+140,wavelet transform,wavelets transform
+141,positive amplitude-velocity ratio,positive amplitude-velocity ratio
+141,negative amplitude-velocity ratio,positive amplitude-velocity ratio
+142,eyelid closure,eyelid closures
+142,prolonged eyelid closures,eyelid closures
+142,eyelid closures,eyelid closures
+143,wifi signals,wifi signals
+144,steering wheel angles,steering wheel angles
+144,steering wheel angle,steering wheel angles
+145,ocular variables,ocular variables
+145,ocular parameters,ocular variables
+146,piezoelectric sensor,piezoelectric sensor
+146,piezoresistive sensor,piezoelectric sensor
+147,wearable sensors,wearable sensors
+148,co sensor,co2 sensor
+148,co2 sensor,co2 sensor
+149,eye features,eye features
+149,eye image features,eye features
+150,voice information,voice information
+151,standard deviation of yaw rate acceleration (sdy),standard deviation of yaw rate acceleration (sdy)
+152,gaze orientation,gaze orientation
+152,gaze position,gaze orientation
+152,gaze direction,gaze orientation
+153,facial key points,facial key points
+153,face key points,facial key points
+154,functional near-infrared spectroscopy (fnirs),functional near-infrared spectroscopy (fnirs)
+154,functional near infrared spectroscopy (fnirs),functional near-infrared spectroscopy (fnirs)
+155,polysomnography,polysomnography
+156,embedded system,embedded system
+157,subjective self-assessment surveys,subjective self-assessment surveys
+158,steering grip force,steering grip force
+159,inter-beat-interval (ibi),inter-beat-interval (ibi)
+160,standard deviation of lateral position (sdlp),standard deviation of lateral position (sdlp)
+161,power-spectrum density (psd),power spectrum density (psd)
+161,power spectrum density (psd),power spectrum density (psd)
+162,physiological measures,physiological measures
+162,physiological indicators,physiological measures
+163,gyroscopes,gyroscopes
+163,gyroscope,gyroscopes
+164,head nod frequency (hnf),head nod frequency (hnf)
+165,connected component analysis,connected component analysis
+166,microsleep,microsleep
+166,microsleeps,microsleep
+167,motional,motional
+168,vehicular,vehicular
+168,vehicular-based,vehicular
+169,electrodermal activity,electrodermal activity
+169,electrodermal response,electrodermal activity
+170,facial skin temperature,facial skin temperature
+170,facial skin temperature distribution,facial skin temperature
+170,skin temperature,facial skin temperature
+171,environmental,environmental
+172,driver's images,driver's images
+172,driver image information,driver's images
+173,eec,eec
+174,image acquisition,image acquisition
+175,throttle,throttle
+176,vehicle-driver interaction,vehicle-driver interaction
+176,driver-vehicle interaction,vehicle-driver interaction
+177,frequency doubler,frequency doubler
+178,ir-uwb radar,ir-uwb radar
+178,uwb radar,ir-uwb radar
+179,facial components analysis,facial components analysis
+180,support vector machine (svm),support vector machines
+180,support vector machines,support vector machines
+181,particulate matter sensor,particulate matter sensor
+182,thermal camera,thermal camera
+183,saccadic eye movement,saccadic eye movements
+183,saccadic eye movements,saccadic eye movements
+183,saccadic eye-movements,saccadic eye movements
+184,brain biophysiological signals,brain biophysiological signals
+185,proximity sensor,proximity sensor
+185,proximity sensors,proximity sensor
+186,facial action units (aus),facial action units (aus)
+186,facial action units,facial action units (aus)
+187,mems magnetometer,mems magnetometer
+188,alcohol sensor (mq-135),alcohol sensor (mq-135)
+189,electromyograms,electromyogram
+189,electromyogram,electromyogram
+189,electromyogram (emg),electromyogram
+190,blood pressures,blood pressures
+190,blood pressure,blood pressures
+191,fuzzy entropy,fuzzy entropy
+192,cutting force,cutting force
+193,simulated driving performance,simulated driving performance
+193,driving simulator performance,simulated driving performance
+193,simulated driving task,simulated driving performance
+194,sleep logbook,sleep logbook
+195,mathematical morphology,mathematical morphology
+196,driving performance measures,driving performance measures
+196,driving performance,driving performance measures
+197,borg cr-10 scale,borg cr-10 scale
+198,skin color features,skin color features
+198,skin color feature,skin color features
+199,infrared cameras,infrared camera
+199,infrared camera,infrared camera
+199,ir camera,infrared camera
+199,infrared led camera,infrared camera
+199,infrared-cut camera,infrared camera
+199,infrared camera video recording,infrared camera
+200,stroop effect,stroop effect
+201,eye gaze tracking,gaze tracking
+201,gaze direction tracking,gaze tracking
+201,gaze tracking,gaze tracking
+202,blood volume pulse (bvp),blood volume pulse (bvp)
+203,eyelid distance measurement,eyelid distance measurement
+204,optic flow,optic flow
+205,phog,phog
+206,eye blink,eye blink
+206,eye-blink,eye blink
+206,eye blinks,eye blink
+207,skeletal data,skeletal data
+207,skeleton data,skeletal data
+208,spatial location of three key points,spatial location of three key points
+209,thermogalvanic,thermogalvanic
+210,bio-signal variation,bio-signal variation
+211,vision-based,vision-based
+212,noise level,noise level
+213,head nodding,head nodding
+213,head nodding angle,head nodding
+213,nodding,head nodding
+214,reaction time (rt) tests,reaction time (rt) tests
+215,brake pedal,brake pedal
+216,vehicle trajectory,vehicle trajectory
+217,video streaming,video streaming
+218,oculomotor movement,oculomotor movement
+219,mouth features,mouth features
+219,mouth characteristics,mouth features
+220,haar-like features,haar-like features
+220,haar features,haar-like features
+221,dadt,dadt
+222,p300,p300
+223,(theta+alpha)/(alpha+beta),(theta+alpha)/(alpha+beta)
+224,eye closure percentage,eye closure percentage
+224,percentage of eye closure,eye closure percentage
+225,tracking error statistics,tracking error statistics
+226,facial/eye tracking,facial tracking
+226,face tracking,facial tracking
+226,facial tracking,facial tracking
+226,facial feature tracking,facial tracking
+227,facial feature point location,facial feature point location
+228,osler test,osler test
+229,integral projection,integral projection
+230,rfid-based respiration monitoring,rfid-based respiration monitoring
+231,bihistogram equalization,bihistogram equalization
+232,steering input behavior monitoring,steering input behavior monitoring
+233,acoustic sensor,acoustic sensor
+233,acoustic sensors,acoustic sensor
+233,acoustic sensing,acoustic sensor
+234,inertial unit,inertial unit
+234,inertial motion units,inertial unit
+235,vision sensor,vision sensor
+236,motion detection,motion detection
+237,cecg,cecg
+238,edge detection,edge detection
+239,lightweight ssd detection model,lightweight ssd detection model
+240,functional connectivity (fc),functional connectivity (fc)
+241,not found,not found
+242,gps,gps
+243,maintenance of wakefulness test (mwt),maintenance of wakefulness test (mwt)
+243,maintenance of wakefulness test,maintenance of wakefulness test (mwt)
+244,imu,imu
+245,salivary alpha-amylase,salivary alpha-amylase
+245,salivary alpha-amylase (saa),salivary alpha-amylase
+245,salivary amylase activity,salivary alpha-amylase
+246,pupillary reflex,pupillary reflex
+247,gt block,gt block
+248,task load index,task load index
+249,duty/sleep diaries,sleep/duty diary
+249,sleep/duty diary,sleep/duty diary
+250,constriction amplitude,constriction amplitude
+251,steering wheel data acquisition,steering wheel data acquisition
+251,steering wheel data,steering wheel data acquisition
+252,temperature,temperature
+253,speech recognition,speech recognition
+254,gsm,gsm
+255,fine operation ability,fine operation ability
+256,yolov3,yolov3
+257,behavorial,behavorial
+258,eye motion,eye motion
+259,eye feature extraction,eye feature extraction
+259,eye regions extraction,eye feature extraction
+259,eye texture feature extraction,eye feature extraction
+260,attention value,attention value
+261,mean sleep latency test,mean sleep latency test
+262,event-related potentials (erps),event-related potentials (erps)
+263,saccade amplitude,saccade amplitude
+263,average saccade amplitude,saccade amplitude
+264,biometric measurements,biometric measurements
+265,eye openness,eye openness
+266,standardised lid closure speed,standardised lid closure speed
+267,'facial expression','facial expression'
+267,facial expression,'facial expression'
+268,pressure sensor array,pressure sensor array
+268,pressure sensors array,pressure sensor array
+269,ccd image sensor camera,ccd image sensor camera
+269,ccd camera,ccd image sensor camera
+270,glucocorticoid,glucocorticoid
+271,go/nogo paradigm,go/nogo paradigm
+272,tvf-emd,tvf-emd
+273,psd,psd
+274,median filtering,median filtering
+275,mar,mar
+276,epworth sleepiness scale,epworth sleepiness scale
+276,epworth sleepiness score,epworth sleepiness scale
+276,epworth sleepiness scale (ess),epworth sleepiness scale
+277,subjective report,subjective report
+277,subjective report scores,subjective report
+277,subjective reporting,subjective report
+278,complexity function,complexity function
+279,car acceleration sensors,car acceleration sensors
+280,pulse signal detection,pulse signal detection
+281,eyebrow position,eyebrow position
+282,accuracy,accuracy
+283,heart activity,heart activity
+283,cardiac activity,heart activity
+284,mouth openness,mouth openness
+285,urine amt6s,urine amt6s
+286,colour segmentation,color segmentation
+286,color segmentation,color segmentation
+287,lateral position variations,lateral position variations
+287,lateral position,lateral position variations
+288,steering operation,steering operation
+288,steering,steering operation
+289,nasal eda (neda),nasal eda (neda)
+290,r-r-i,r-r-i
+291,facial dynamic changes,facial dynamic changes
+292,3d deep learning network,3d deep learning network
+293,phoneme spectrogram,phoneme spectrogram
+294,limit switch,limit switch
+295,huawei smartwatch,huawei smartwatch
+296,force derivative,force derivative
+297,yawn,yawn
+297,yawns,yawn
+298,vibration sensors,vibration sensors
+299,head detection,head detection
+299,head direction detection,head detection
+300,lane tracking performance,lane tracking performance
+301,heart-rate variability (hrv),heart-rate variability (hrv)
+301,heart rate variability (hrv),heart-rate variability (hrv)
+302,stop-bang,stop-bang
+302,stop-bang (sb),stop-bang
+303,mtcnn,mtcnn
+304,pupil-based features,pupil tracking
+304,pupil detection,pupil tracking
+304,pupil tracking,pupil tracking
+305,surface electromyography (semg),surface electromyography
+305,electromyography,surface electromyography
+305,surface electromyography,surface electromyography
+306,li-fi,li-fi
+307,copilot,copilot
+308,psychomotor vigilance task (pvt-b),psychomotor vigilance task (pvt-b)
+308,psychomotor vigilance task (pvt),psychomotor vigilance task (pvt-b)
+309,image histograms,image histograms
+310,optalert (tm),optalert (tm)
+311,efv,efv
+312,ads1298,ads1298
+313,out-of-lane driving events,out-of-lane driving events
+314,samn-perlli crew status check,samn-perlli crew status check
+314,samn-perelli crew status check,samn-perlli crew status check
+315,freeman chain,freeman chain
+316,rfid,rfid
+316,rfid-based,rfid
+317,capacitive coupling electrode,capacitive coupling electrode
+317,capacitive coupling electrodes,capacitive coupling electrode
+318,vehicle-based sensors,vehicle-based sensors
+318,vehicle sensors,vehicle-based sensors
+319,engine speed,engine speed
+320,blood biomarkers,blood biomarkers
+321,accelerator sensor,accelerator sensor
+322,perclose,perclose
+323,computer-vision techniques,computer-vision techniques
+324,transmitting antenna array,transmitting antenna array
+324,receiving antenna array,transmitting antenna array
+325,hog,hog
+326,quadrature mixers,quadrature mixers
+327,shannon entropy,shannon entropy
+328,respiration sensor,respiration sensor
+329,clock,clock
+330,voice quality features,voice quality features
+331,behavioral analysis,behavioral analysis
+332,fitness-for-duty test,fitness-for-duty test
+333,ess,ess
+334,relaxation value,relaxation value
+335,exposed sclera,exposed sclera
+336,pulse oximetry,pulse oximetry
+336,oximetry pulse,pulse oximetry
+336,oximetry pulse signal,pulse oximetry
+336,pulse oximeter,pulse oximetry
+337,expiration duration,expiration duration
+338,music logs,music logs
+339,near-infrared spectroscopy (nirs),near-infrared spectroscopy (nirs)
+339,near infrared spectroscopy (nirs),near-infrared spectroscopy (nirs)
+340,facial features,facial feature
+340,facial feature,facial feature
+341,cameras,cameras
+341,camera,cameras
+342,face tracing,face tracing
+342,facial feature tracing,face tracing
+343,facial image features extraction,facial feature extraction
+343,facial region extraction,facial feature extraction
+343,facial feature extraction,facial feature extraction
+344,smooth pursuit,smooth pursuit
+345,skin color segmentation,skin color segmentation
+346,perspective transformation,perspective transformation
+347,b-ors,b-ors
+348,ellipse fitting,ellipse fitting
+349,bp ann,bp ann
+350,video monitoring,video monitoring
+351,light,light
+352,alpha wave,alpha wave
+353,cdf analysis,cdf analysis
+354,hand over-face touches,hand over-face touches
+355,joystick tracking,joystick tracking
+356,anchor box sizing,anchor box sizing
+357,watch-pat,watch-pat
+358,iowa gambling task,iowa gambling task
+359,facial data,facial data
+359,facial data acquisition,facial data
+359,facial image/video data,facial data
+360,engagement index,engagement index
+361,physical movement-based methods,physical movement-based methods
+362,ssb modulator,ssb modulator
+363,digit symbol substitution test,digit symbol substitution test
+364,vertical projection matching,vertical projection matching
+365,object detection,object detection
+366,soft percentage of eyelid closure (soft perclos),percentage of eyelid closure (perclos)
+366,percentage of eye closure time (perclos),percentage of eyelid closure (perclos)
+366,percentage of eye closure (perclos),percentage of eyelid closure (perclos)
+366,percentage of eyelid closure (perclos),percentage of eyelid closure (perclos)
+367,phase locking value (plv),phase locking value (plv)
+368,control time histories,control time histories
+369,aircraft state measurements,aircraft state measurements
+370,work schedule,work schedule
+371,nasa-tlx,nasa-tlx
+372,beat frequency of sight line,beat frequency of sight line
+373,mouth aspect ratio (mar),mouth aspect ratio
+373,mouth aspect ratio,mouth aspect ratio
+373,eye-mouth aspect ratios,mouth aspect ratio
+374,delay of lid reopening,delay of lid reopening
+375,cnn,cnn
+376,gradient vectors,gradient vectors
+377,lateral acceleration,lateral acceleration
+377,lateral acceleration rates,lateral acceleration
+378,cognitive performance,cognitive performance
+379,pom,pom
+380,angle sensor,angle sensor
+381,seismocardiography,seismocardiography
+382,lf/hf ratio,lf/hf ratio
+383,bayevsky stress index,bayevsky stress index
+384,regression trees,regression trees
+385,touch response,touch response
+386,force platform,force platform
+387,vehicle lane position,lane positioning
+387,lane positioning,lane positioning
+387,lane position,lane positioning
+388,visual fatigue meter (vfm),visual fatigue meter (vfm)
+389,behavioural data acquisition,behavioural data acquisition
+389,behavioral data acquisition,behavioural data acquisition
+390,pixel-pattern-based texture features,pixel-pattern-based texture features
+391,load center position,load center position
+392,spo2,spo2
+393,stft,stft
+394,obd-to-bluetooth dongle,obd-to-bluetooth dongle
+395,skin electric potential,skin electric potential
+396,contextual information,contextual information
+397,pca,pca
+398,heart rate sensor,heart rate monitoring
+398,heart rate detection,heart rate monitoring
+398,heart rate monitoring,heart rate monitoring
+398,heart rate monitor,heart rate monitoring
+398,pulse rate monitoring,heart rate monitoring
+399,facial analysis,facial analysis
+399,facial image analysis,facial analysis
+399,face analysis,facial analysis
+400,neural network,neural network
+401,sweating,sweating
+402,head pitch angle (hpa),head pitch angle (hpa)
+403,vehicle operating data,vehicle data
+403,vehicular data,vehicle data
+403,in-vehicle data,vehicle data
+403,vehicle data,vehicle data
+404,zigbee,zigbee
+405,hue (h) channel,hue (h) channel
+406,yawn frequency (yf),yawning frequency
+406,yawning rate,yawning frequency
+406,yawning frequency,yawning frequency
+406,yawn frequency,yawning frequency
+407,constriction latency,constriction latency
+408,keyframe selection algorithm,keyframe selection algorithm
+409,complex reactionmeter drenovac (crd),complex reactionmeter drenovac (crd)
+410,driving time,driving time
+410,time of driving,driving time
+411,grip monitoring,grip monitoring
+411,grip detection,grip monitoring
+412,humidity sensor,humidity sensor
+413,nanosecond pulse near-field sensing (npns),nanosecond pulse near-field sensing (npns)
+414,strain,strain
+415,side-slip angle,side-slip angle
+416,hilbert-huang transform,hilbert-huang transform
+417,endpoint interaction forces,endpoint interaction forces
+418,haar cascade,haar cascade
+418,haar cascades,haar cascade
+419,eye blinking analysis,eye blink analysis
+419,eye blink analysis,eye blink analysis
+419,eye-blink analysis,eye blink analysis
+420,sleep monitoring,sleep monitoring
+421,saccade velocity,saccade velocity
+421,saccade velocity profile,saccade velocity
+422,prosodic,prosodic
+423,apen,apen
+424,peropen,peropen
+425,facial movement,facial movement
+426,thermal imagery,thermal image
+426,thermal imaging,thermal image
+426,thermal image,thermal image
+427,activity records,activity records
+428,assr,assr
+429,heading error,heading error
+430,contactless,contactless
+431,hand landmarks,hand landmarks
+432,ltv system,ltv system
+433,facial thermal imaging,facial thermal imaging
+434,fitbit versa 2,fitbit versa 2
+435,em,em
+436,shi-tomasi detector,shi-tomasi detector
+437,fmri,fmri
+438,tachograph records,tachograph records
+439,improved camshift algorithm,improved camshift algorithm
+440,eye closure detection,eye closure detection
+441,heart rate variation,heart rate variability
+441,heart rate variability,heart rate variability
+441,electrocardiographic heart rate variability,heart rate variability
+441,physiological signal (heart rate variability),heart rate variability
+442,iris-sclera pattern analysis,iris-sclera pattern analysis
+443,standing-position balance test,standing-position balance test
+444,epworth scale,epworth scale
+445,emergency response capability,emergency response capability
+446,resp,resp
+447,physiological,physiological
+448,symmetries detection,symmetries detection
+449,template matching,template matching
+450,nodfreq,nodfreq
+451,otsu method,otsu method
+452,respiration rate,respiration rate
+452,respiration rate (rr),respiration rate
+453,facial recognition,facial recognition
+453,facial image recognition,facial recognition
+453,face recognition,facial recognition
+453,facial feature recognition,facial recognition
+454,ycbcr transformation,ycbcr transformation
+455,mmwave radar,mmwave radar
+456,eyes aspect ratio (ear),eye aspect ratio (ear)
+456,eye aspect ratio (ear),eye aspect ratio (ear)
+456,ocular aspect ratio (ear),eye aspect ratio (ear)
+457,long short-term memory recurrent neural network,long short-term memory recurrent neural network
+458,fom,fom
+459,control-related features,control-related features
+460,respiratory information,respiratory information
+460,respiratory data,respiratory information
+461,electric field,electric field
+462,imfs,imfs
+463,brain connectivity networks,brain connectivity networks
+464,flann,flann
+465,joint angles,joint angles
+466,ippg,ippg
+467,wrist activity monitor,wrist activity monitor
+467,wrist-worn activity monitor,wrist activity monitor
+467,wrist-activity monitoring,wrist activity monitor
+468,matcn block,matcn block
+469,srnet-fr,srnet-fr
+470,eye and mouth state analysis,eye and mouth state analysis
+471,kss,kss
+472,lms adaptive filter,lms adaptive filter
+473,fair-2 test,fair-2 test
+474,multi-sensors,multi-sensors
+475,late positive potential (lpp),late positive potential (lpp)
+476,karolinska sleepiness scale (kss),karolinska sleepiness scale (kss)
+476,karolinska sleepiness scale,karolinska sleepiness scale (kss)
+477,gaze patterns,eye gaze patterns
+477,eye gaze patterns,eye gaze patterns
+478,homomorphic filtering,homomorphic filtering
+479,bron-lyon attention stability test (blast),bron-lyon attention stability test (blast)
+480,lane drifts,lane drifts
+480,lane drifting incidents,lane drifts
+481,circularity,circularity
+482,acceleration data,acceleration data
+483,accommodative response,accommodative response
+484,eye image data,eye image data
+485,mobile app,mobile app
+486,image processing,image processing
+486,digital image processing,image processing
+487,semg,semg
+488,actimeter,actimeter
+489,rbem,rbem
+490,seatbelt detection,seatbelt detection
+491,940nm infrared emitting diode,940nm infrared emitting diode
+492,reaction time,reaction time
+492,reaction time task,reaction time
+492,reaction times,reaction time
+493,vehicle-based features,vehicle-based features
+494,head swaying,head swaying
+495,palm electrodermal activity (peda),palm electrodermal activity (peda)
+496,driver position,driver position
+497,virtual lbs data,virtual lbs data
+498,johns drowsiness scale,johns drowsiness scale
+499,eye area analysis,eye analysis
+499,eye analysis,eye analysis
+499,eye feature analysis,eye analysis
+500,face position difference (fpd),face position difference (fpd)
+501,co2,co2
+502,deceleration control,deceleration control
+503,vital signs,vital signs
+504,blink frequency,blinking frequency
+504,blinking frequency,blinking frequency
+505,samn-perelli scale,samn-perelli scale
+506,peripheral temperature,peripheral temperature
+507,adaptive-threshold segmentation,adaptive-threshold segmentation
+508,average fixation duration,average fixation duration
+509,force,force
+510,perclos70,perclos70
+511,rpm,rpm
+512,posturographic balance,posturographic balance
+513,alcohol gas level,alcohol gas level
+514,fec,fec
+515,eye locating,eye locating
+516,capacitance measurements,capacitance measurements
+517,eye aperture,eye aperture
+518,magnetometer,magnetometer
+519,core body temperature,core body temperature
+520,driver's head position,driver's head position
+520,driver's head rotation,driver's head position
+521,back pressure measurement,back pressure measurement
+522,king-devick test,king-devick test
+523,facial sequences,facial sequences
+523,facial image sequences,facial sequences
+524,nirs,nirs
+525,interior vehicle cameras,interior vehicle cameras
+526,torque input,torque input
+527,vehicle kinematics,vehicle kinematics
+528,berlin test,berlin test
+529,psg,psg
+530,self-reported stress,self-reported stress
+531,distance vectors,distance vectors
+532,i and k color information,i and k color information
+533,continuous performance test (cpt),continuous performance test (cpt)
+534,gray projection variance threshold analysis,gray projection variance threshold analysis
+535,sleep-specific questions,sleep-specific questions
+536,vld,vld
+537,body movements,body movements
+537,body motion,body movements
+538,image-based data acquisition,image-based data acquisition
+539,video recordings,video recordings
+539,video recording,video recordings
+540,electroencephalogram (eeg),electroencephalography (eeg)
+540,electroencephalographic (eeg) activities,electroencephalography (eeg)
+540,electroencephalography (eeg),electroencephalography (eeg)
+541,closing speed,closing speed
+542,video sequences,video sequences
+543,yoke inputs,yoke inputs
+544,aot,aot
+545,optical correlator,optical correlator
+546,deep convolutional neural networks,deep convolutional neural networks
+547,black ratio,black ratio
+548,blazeface,blazeface
+549,external traffic information,external traffic information
+550,fatigue avoidance scheduling tool (fast),fatigue avoidance scheduling tool (fast)
+551,spatial fuzzy e-means (s-fcm) clustering,spatial fuzzy e-means (s-fcm) clustering
+552,multichannel frequency-domain ratio indices,multichannel frequency-domain ratio indices
+553,respiratory effort,respiratory effort
+554,adjusted neck circumference (anc),adjusted neck circumference (anc)
+555,breathing patterns,breathing patterns
+556,kinetic-related features,kinetic-related features
+557,fd-d-2 fit-for-duty,fd-d-2 fit-for-duty
+558,transcranial doppler,transcranial doppler
+559,technician-observed drowsiness,technician-observed drowsiness
+560,pmn-pt crystal sensor,pmn-pt crystal sensor
+561,psychophysiological tests,psychophysiological tests
+562,steering wheel signal,steering wheel signal
+562,steering wheel signals,steering wheel signal
+563,lower-face contour,lower-face contour
+564,stroke volume data,stroke volume data
+565,centroid coordinates of two-hand (arm) region,centroid coordinates of two-hand (arm) region
+566,maneuver recognition,maneuver recognition
+567,visible light camera sensor,visible light camera sensor
+568,bac,bac
+569,asm search algorithm,asm search algorithm
+570,facial key points detection,facial key point detection
+570,facial key point detection,facial key point detection
+570,facial landmark key point detection,facial key point detection
+571,point cloud,point cloud
+572,frame-difference method,frame-difference method
+573,wrist actigraphy,wrist actigraphy
+574,graphology,graphology
+575,engine load,engine load
+576,thoracic effort signal analysis,thoracic effort signal analysis
+577,facial landmark alignment,facial landmark alignment
+577,facial landmark method,facial landmark alignment
+578,feature orientation fusion,feature orientation fusion
+579,vicon motion capture system,vicon motion capture system
+580,lane tracking data,lane tracking data
+580,lane tracking,lane tracking data
+581,pupillometry,pupillometry
+581,pupillometric,pupillometry
+582,tactile,tactile
+583,breaking time,breaking time
+584,facial subsampling (eyes and mouth),facial subsampling (eyes and mouth)
+585,body mass index (bmi),body mass index (bmi)
+586,neuromorphic camera,neuromorphic camera
+587,vehicle-to-vehicle (v2v) communication,vehicle-to-vehicle (v2v) communication
+588,nose length ratio (nlr),nose length ratio (nlr)
+589,'action unit (au) measurements','action unit (au) measurements'
+590,head position,head position
+590,head positioning,head position
+591,reading mistakes,reading mistakes
+592,demographic data,demographic data
+593,heog,heog
+594,blood mrna,blood mrna
+595,pvt objective test of alertness,pvt objective test of alertness
+596,wrinkle changes,wrinkle changes
+597,blink,blink
+597,blinking,blink
+598,ceegrids,ceegrids
+599,mlbp,mlbp
+600,snake model algorithm,snake model algorithm
+601,rudder pedal tracking,rudder pedal tracking
+602,embedded performance measures,embedded performance measures
+603,simulation data,simulation data
+604,time-of-day,time-of-day
+605,pressure-sensitive mat,pressure-sensitive mat
+606,davis sensor,davis sensor
+607,images,images
+608,microphone,microphone
+609,driver's age detection,driver's age detection
+610,taking eyes off the road,taking eyes off the road
+611,neural data acquisition,neural data acquisition
+612,electrooculograms,electrooculograms
+612,electrooculogram,electrooculograms
+613,apnealink,apnealink
+614,t-nose,t-nose
+615,mind wave data via neurosky,mind wave data via neurosky
+616,radial basis function network,radial basis function network
+617,continuous blood pressure (cbp),continuous blood pressure (cbp)
+618,vehicle's active probe action,vehicle's active probe action
+619,handcrafted features,handcrafted features
+620,physiological parameters,physiological parameters
+621,sitting pressure measurement,sitting pressure measurement
+622,murt test,murt test
+623,erp,erp
+624,operator's performance,operator's performance
+625,face occlusions,face occlusions
+626,eye states,eye states
+626,eye state,eye states
+627,eda,eda
+628,can-bus,can-bus
+629,transformer-type angular displacement sensor,transformer-type angular displacement sensor
+630,eye movements,eye movement
+630,eye movement,eye movement
+630,image of eye movement,eye movement
+630,eye movement features,eye movement
+631,p200 component,p200 component
+632,sweat lactate biosensor,sweat lactate biosensor
+633,mwt,mwt
+634,view ray analysis,view ray analysis
+635,mpeg compression,mpeg compression
+636,standard deviation of speed,standard deviation of speed
+637,human pulse,pulse
+637,pulse,pulse
+638,head state,head state
+639,flight data,flight data
+640,borg rpe,borg rpe
+641,speech analysis,speech analysis
+641,voice analysis,speech analysis
+642,iconic classifiers,iconic classifiers
+643,lf/hf ratio from hrv of ppgi,lf/hf ratio from hrv of ppgi
+644,inceptionv3,inceptionv3
+645,actiwatch,actiwatch
+646,plcdb,plcdb
+647,perclos,perclos
+648,affine transformation,affine transformation
+649,mouth tracking,mouth shape tracking
+649,mouth shape tracking,mouth shape tracking
+649,mouth shape analysis,mouth shape tracking
+650,attitude feature,attitude feature
+651,ballistocardiogram,ballistocardiogram
+652,intraocular pressure,intraocular pressure
+653,iris detection,iris detection
+654,sensors,sensors
+655,vanet,vanet
+656,gravity,gravity
+657,emotional activation,emotional activation
+658,breaking frequency,breaking frequency
+659,eye blink patterns,eye blink patterns
+660,vehicle heading difference,vehicle heading difference
+661,hyper spectrum camera,hyper spectrum camera
+662,2-d camera,2-d camera
+663,neck movement analysis,neck movement analysis
+664,self-rating scales,self-rating scales
+665,image differential projection function,image differential projection function
+666,wireless dry eeg,wireless dry eeg
+667,psychomotor performance testing,psychomotor performance testing
+668,obd2 sensor,obd2 sensor
+669,touch-screen device,touch-screen device
+670,sunglasses detection,sunglasses detection
+671,electrophysiological indices,electrophysiological indices
+672,unsafe driving state dataset (uds),unsafe driving state dataset (uds)
+673,fisher classifier,fisher classifier
+674,optical sensors,optical sensor
+674,optical sensor,optical sensor
+675,eye closure ratio (ecr),eye closure rate (ecr)
+675,eye closure rate,eye closure rate (ecr)
+675,eye closure rate (ecr),eye closure rate (ecr)
+676,spectral,spectral
+677,cnn-based classification,cnn-based classification
+678,vehicle acceleration,vehicle acceleration
+678,acceleration of the driving vehicle,vehicle acceleration
+679,eye image matching,eye image matching
+680,brain-computer interface (bci) device,brain-computer interface (bci) device
+681,longitudinal acceleration,longitudinal acceleration
+682,wt,wt
+683,skt,skt
+684,head pose,head poses
+684,head poses,head poses
+685,piezoresistive,piezoresistive
+686,color spaces,color spaces
+687,video,video
+688,reflex-related features,reflex-related features
+689,mechanical,mechanical
+690,brake,brake
+690,braking,brake
+691,facial action coding system (facs),facial action coding system (facs)
+692,infrared technology,infrared technology
+692,infrared,infrared technology
+693,brain power map,brain power map
+694,leaning detection,leaning detection
+695,subjective data,subjective data
+696,standard deviation from the center of the road (sds),standard deviation from the center of the road (sds)
+697,"vehicle performance measures (speed, acceleration, brake pedal, gas pedal, steering angle, lateral position)","vehicle performance measures (speed, acceleration, brake pedal, gas pedal, steering angle, lateral position)"
+698,semantic image segmentation,semantic image segmentation
+699,mq3 sensor,mq3 sensor
+700,respiratory measurements,respiratory measurements
+700,respiratory measurement,respiratory measurements
+701,sift,sift
+702,fuzzy logic system,fuzzy logic system
+703,bcg,bcg
+704,3-d sensor,3-d sensor
+705,facial microfeatures,facial microfeatures
+706,electrocardiography,electrocardiography
+707,classification using multi-scale 1-nn algorithm,classification using multi-scale 1-nn algorithm
+708,end tidal co2,end tidal co2
+709,facial emg,facial emg
+710,multi-scale pyramidal face representation,multi-scale pyramidal face representation
+711,yaw angles,yaw angles
+712,radar fusion,radar fusion
+713,photoplethysmograph,photoplethysmograph
+713,photoplethysmography,photoplethysmograph
+714,driver's power of gripping,driver's power of gripping
+715,pvdf sensor,pvdf sensor
+716,ebr,ebr
+717,velocity rmse,velocity rmse
+718,nbm,nbm
+719,initial speed,initial speed
+720,lane keeping,lane keeping
+721,biobehavioural data,biobehavioural data
+722,pupillographic sleepiness test (pst),pupillographic sleepiness test (pst)
+723,vehicle cabin vibration signal,vehicle cabin vibration signal
+724,kinect2.0 camera,kinect2.0 camera
+725,computerized multitasking measure,computerized multitasking measure
+726,video streams,video streams
+727,behavioral parameters,behavioral parameters
+728,pilot input measurements,pilot input measurements
+729,sleep diary,sleep diary
+729,sleep diaries,sleep diary
+730,bf,bf
+731,lane deviation,lane deviation
+732,biomathematical fatigue modelling,biomathematical fatigue modelling
+733,multi-level multi scale feature extraction,multi-level multi scale feature extraction
+734,ultrasonic sensor,ultrasonic sensor
+735,photopletismographic,photopletismographic
+736,magnetic impedance sensor,magnetic impedance sensor
+737,pressure maps,pressure maps
+738,lbp,lbp
+739,gabor images,gabor images
+740,alcohol detection,alcohol detection
+741,optical image information processing,optical image information processing
+742,self-touching hand motion,self-touching hand motion
+743,critical fusion frequency,critical fusion frequency
+744,mind wandering questionnaire,mind wandering questionnaire
+745,steering wheel grip force,steering wheel grip force
+745,decline in gripping force on the steering wheel,steering wheel grip force
+746,vehicle motion data,vehicle motion data
+747,galvanometer,galvanometer
+748,skin micro-movements,skin micro-movements
+749,pedal controlling pattern,pedal controlling pattern
+750,muscular discomfort scores,muscular discomfort scores
+751,eye blinking detection,eye blink detection
+751,eye-blink recognition,eye blink detection
+751,eye blink sensor,eye blink detection
+751,eye-blink rate detection,eye blink detection
+751,eye blink detection,eye blink detection
+752,time-on-task,time-on-task
+753,surf features,surf features
+754,steering wheel variability,steering wheel variability
+755,wavelet-based connectivity,wavelet-based connectivity
+756,skin blood flow information,skin blood flow information
+757,3-axes acceleration sensors,3-axes acceleration sensors
+758,face video analysis,face video analysis
+758,facial video analysis,face video analysis
+759,eyeblink durations,eyeblink durations
+760,reopening speed,reopening speed
+761,subjective workload assessment,subjective workload assessment
+762,audio modality,audio modality
+763,idt capacitive sensor,idt capacitive sensor
+764,headway distance,headway distance
+765,aecs,aecs
+766,environment temperature information,environment temperature information
+767,saccade-based metrics,saccade-based metrics
+768,biomechanical data,biomechanical data
+769,electrical bioimpedance system,electrical bioimpedance system
+770,visible video,visible video
+771,bioelectric signal features,bioelectric signal features
+772,unity eyes generated data,unity eyes generated data
+773,median absolute deviation,median absolute deviation
+774,mouth movements,mouth movements
+774,mouth movement,mouth movements
+775,eda sensor gloves,eda sensor gloves
+776,computer vision,computer vision
+777,iris positioning,iris positioning
+778,ear,ear
+779,driving attributes,driving attributes
+780,kullback-leibler (kl) entropy,kullback-leibler (kl) entropy
+781,binary pattern,binary pattern
+782,ocular index,ocular index
+783,respiration signals,respiration signals
+783,respiration signal,respiration signals
+784,eeg alpha power,eeg alpha power
+785,electro-mechanical installed sensors,electro-mechanical installed sensors
+786,cabin crew questionnaires,cabin crew questionnaires
+787,inertial measurement unit (imu),inertial measurement unit (imu)
+788,video tracking,video tracking
+789,kinematic parameters,kinematic parameters
+790,face location,face location
+791,automatic speech recognition systems errors,automatic speech recognition systems errors
+792,transport fatigue assessment shift log,transport fatigue assessment shift log
+793,pedal input,pedal input
+794,fixation data,fixation data
+795,saccadic velocity,saccadic velocity
+796,vehicle position monitoring,vehicle position monitoring
+797,physiological instrument,physiological instrument
+798,near-infrared images,near-infrared images
+798,near-infrared cameras,near-infrared images
+799,face clustering,face clustering
+800,facial feature point data,facial feature points
+800,face feature points,facial feature points
+800,facial feature points,facial feature points
+801,bright pupil effect,bright pupil effect
+802,internal zone of the mouth opening,internal zone of the mouth opening
+803,sleep,sleep
+804,driving errors,driving errors
+805,relative band ratio (rbr),relative band ratio (rbr)
+806,high speed image sequence,high speed image sequence
+807,facial geometry-based eye region detection,facial geometry-based eye region detection
+808,sdlp,sdlp
+809,head gesture,head gesture
+809,head gestures,head gesture
+810,contactless uwb sensor,contactless uwb sensor
+811,viola-jones,viola-jones
+812,closed eyes time,closed eyes time
+813,vehicle control,vehicle control
+814,eyelid position,eyelid position
+815,response time,response time
+816,yawnfrec,yawnfrec
+817,gaze transition entropy (gte),gaze transition entropy (gte)
+818,range images,range images
+819,doppler radar,doppler radar
+820,head micromovements,head micromovements
+821,timing,timing
+822,external environmental complexity,external environmental complexity
+823,infrared temperature tester,infrared temperature tester
+824,inspiration-to-expiration time ratio,inspiration-to-expiration time ratio
+825,facial fatigue feature detection,facial fatigue feature detection
+826,motion vectors,motion vectors
+827,blink-based metrics,blink-based metrics
+828,infrared thermography,infrared thermography
+829,yaw rate acceleration,yaw rate acceleration
+830,eye-blink parameters,eye blink parameters
+830,eye blink parameters,eye blink parameters
+831,chest movement,chest movement
+832,short and long-range radars,short and long-range radars
+833,yawning,yawning
+833,mouth yawning,yawning
+834,driver monitoring system signals,driver monitoring system signals
+835,radio-image features,radio-image features
+836,pedal pressure,pedal pressure
+837,vpvt,vpvt
+838,side-view video,side-view video
+839,eye-related,eye-related
+840,viola-jones face detection,viola-jones face detection
+841,distracted driving detection,distracted driving detection
+842,rr intervals,rr intervals
+843,contactless temperature measurements,contactless temperature measurements
+844,blink categories,blink categories
+845,fixation stability,fixation stability
+846,body movement recorder,body movement recorder
+847,multi-point pressure detection,multi-point pressure detection
+848,head misalignment time,head misalignment time
+849,muscle forces,muscle forces
+850,ocular metrics,ocular metrics
+850,eye metrics,ocular metrics
+851,mouth state detection,mouth detection
+851,mouth opening detection,mouth detection
+851,mouth area detection,mouth detection
+851,mouth detection,mouth detection
+852,lips movement ratio (lmr),lips movement ratio (lmr)
+853,mouse velocity,mouse velocity
+854,acceleration noise analysis,acceleration noise analysis
+855,mouth opening frequency,mouth opening frequency
+856,ecd,ecd
+857,magnetic induction measurement,magnetic induction measurement
+858,cognitive testing,cognitive testing
+859,seat position,seat position
+860,hands on mouth,hands on mouth
+861,ekg,ekg
+862,breath sensor,breath sensor
+863,driving tests,driving tests
+864,detection-response task performance,detection-response task performance
+865,inertial data,inertial data
+866,stanford sleepiness scale (sss),stanford sleepiness scale (sss)
+866,stanford sleepiness scale,stanford sleepiness scale (sss)
+867,visual image,visual image
+868,triboelectric sensors,triboelectric sensors
+869,fourier transforms of tracking errors,fourier transforms of tracking errors
+870,neurobehavioral ability performance,neurobehavioral ability performance
+871,mouth location,mouth location
+872,contourlet transform,contourlet transform
+873,palm temperatures,palm temperatures
+874,face landmark coordinates,face landmark coordinates
+875,peak-to-peak amplitude,peak-to-peak amplitude
+876,psychological data,psychological data
+877,psychological assessment,psychological assessment
+878,differential entropy,differential entropy
+879,mfv,mfv
+880,curvature of upper eyelid,curvature of upper eyelid
+881,vehicle rotation pattern,vehicle rotation pattern
+882,average speed,average speed
+883,ambient noise,ambient noise
+884,rectangle features,rectangle features
+885,gripping force,gripping force
+886,textural-based gradient patterns,textural-based gradient patterns
+887,flicker test,flicker test
+888,eyelid tracking,eyelid tracking
+888,eyelid movement tracking,eyelid tracking
+889,projection technique,projection technique
+890,ht-r,ht-r
+891,head-tilt,head-tilt
+891,head tilting,head-tilt
+892,heartbeat interval (hbi),heartbeat interval (hbi)
+893,face angle measurement,face angle measurement
+894,saccade number,saccade number
+895,postural assessment using light sonometer,postural assessment using light sonometer
+896,face pose estimation,face pose estimation
+897,gprs,gprs
+898,stroop test,stroop test
+899,cortisol detection,cortisol detection
+900,electrocardiographic waveform measurement,electrocardiographic waveform measurement
+901,video classification,video classification
+902,bio-sensing technologies,bio-sensing technologies
+903,facial expression tracking,facial expression tracking
+904,between-frame entropy,between-frame entropy
+905,nasa-tlx questionnaire,nasa-tlx questionnaire
+906,stop-bang questionnaire,stop-bang questionnaire
+907,image-based data,image-based data
+908,performance measures,performance measures
+909,heartbeat signals,heartbeat signals
+910,brake pressure,brake pressure
+911,steering wheel axis pattern,steering wheel axis pattern
+912,percent eye-closure over a fixed time window (perclos),percent eye-closure over a fixed time window (perclos)
+913,acoustic features (prosodic and phonetic),acoustic features (prosodic and phonetic)
+914,saccadic parameters,saccadic parameters
+915,oculomotor response,oculomotor response
+916,visual cues,visual cues
+917,wearable actigraph,wearable actigraph
+918,electromyography (emg),electromyography (emg)
+918,surface electromyography (emg),electromyography (emg)
+919,ppg pulse sensor,ppg pulse sensor
+920,steering-related information,steering-related information
+921,steering pressure,steering pressure
+922,matching pursuit algorithm,matching pursuit algorithm
+923,usb camera,usb camera
+924,t-wrist,t-wrist
+925,facial feature analysis,facial features analysis
+925,facial features analysis,facial features analysis
+926,samn-perelli fatigue scale,samn-perelli fatigue scale
+926,samn-perelli fatigue scale (spfs),samn-perelli fatigue scale
+927,lane detection using hough transform,lane detection using hough transform
+928,standard deviation of acceleration rate (sda),standard deviation of acceleration rate (sda)
+929,observer rating of drowsiness (ord),observer rating of drowsiness (ord)
+930,face,face
+931,eeg,eeg
+932,eye blink intervals (ebis),eye blink intervals (ebis)
+933,mouth size,mouth size
+934,eye gaze,eye gaze
+934,gaze,eye gaze
+935,portable sleep monitors,portable sleep monitors
+936,euclidean distance of the eye,euclidean distance of the eye
+937,facial color changes,facial color changes
+938,physical features,physical features
+939,finger temperature (ft),finger temperature (ft)
+940,3d acceleration,3d acceleration
+941,eye condition,eye condition
+942,emd,emd
+943,corner detection algorithm,corner detection algorithm
+944,optical motion capture,optical motion capture
+945,gps speed,gps speed
+946,fatigue monitoring system famos,fatigue monitoring system famos
+947,mouth aperture ratio (mar),mouth aperture ratio (mar)
+948,video data,video data
+949,autocamera,autocamera
+950,webcam,webcam
+950,web camera,webcam
+951,ear ratio system,ear ratio system
+952,multisensor-based,multisensor-based
+953,subjective feeling,subjective feeling
+954,time to lane crossing,time to lane crossing
+955,self-assessment manikin scale,self-assessment manikin scale
+956,3d facial action unit identification,3d facial action unit identification
+957,lane-related information,lane-related information
+958,eye movement detection,eye movement detection
+958,eye movement tracking,eye movement detection
+959,skin signals,skin signals
+960,vibration acceleration,vibration acceleration
+961,pupillary light reflex,pupillary light reflex
+961,pupillary light reflex analysis,pupillary light reflex
+962,eye activity,eye activity
+962,eye activity measures,eye activity
+963,breath characteristics,breath characteristics
+964,semiconductor temperature sensor,semiconductor temperature sensor
+965,visual input,visual input
+966,facial monitoring,facial monitoring
+967,mimo radar,mimo radar
+968,local edge intensity,local edge intensity
+969,pupil movement speed,pupil movement speed
+970,saccade-based features,saccade-based features
+971,vehicle-based measures,vehicle-based measures
+972,actigraph bracelets,actigraph bracelets
+973,count of yawn,count of yawn
+973,number of yawns,count of yawn
+974,humidity,humidity
+975,pulse waves,pulse waves
+975,pulse signals,pulse waves
+976,behavioral data acquisition through video analysis,behavioral data acquisition through video analysis
+977,emotion state analysis,emotion state analysis
+978,portable system,portable system
+979,openmv camera,openmv camera
+980,in-cabin video streams,in-cabin video streams
+981,complexion clustering,complexion clustering
+982,galvanic skin response,galvanic skin response
+982,galvanic skin response (gsr),galvanic skin response
+983,camera-based sleep detection,camera-based sleep detection
+984,mouth closure,mouth closure
+985,driving performance characteristic parameters,driving performance characteristic parameters
+986,fnirs,fnirs
+987,ppg,ppg
+988,video stream processing (vsp),video stream processing (vsp)
+989,force-sensitive resistance pressure sensors,force-sensitive resistance pressure sensors
+990,salivary markers,salivary markers
+991,wrist pulse signals,wrist pulse signals
+992,outside camera,outside camera
+993,blood oxygen,blood oxygen
+994,eye-validation process,eye-validation process
+995,breathing,breathing
+996,off-road events,off-road events
+997,facial areas,facial areas
+998,eog,eog
+999,wearable system,wearable system
+1000,geometric features,geometric features
+1001,edge detection with prewitt operator,edge detection with prewitt operator
+1002,eye closures,eye closure
+1002,eye closure,eye closure
+1002,eye-closure,eye closure
+1003,hr,hr
+1004,speech,speech
+1005,dynamic threshold value for eyes status,dynamic threshold value for eyes status
+1006,racing wheel motion,racing wheel motion
+1007,blink rate,blinking rate
+1007,blinking rate,blinking rate
+1008,pupil activity (pa),pupil activity (pa)
+1009,respiration belt,respiration belt
+1010,vehicle driving dynamics,vehicle driving dynamics
+1011,environmental data,environmental data
+1012,electrocardiosignals (ecs),electrocardiosignals (ecs)
+1013,gabor filter,gabor filter
+1013,gabor filters,gabor filter
+1014,fixation rate,fixation rate
+1015,driving,driving
+1016,human back pressure,human back pressure
+1017,eyeblink recognition,eyeblink recognition
+1018,sample entropy,sample entropy
+1019,subjective questionnaire (sq),subjective questionnaire (sq)
+1020,eyebrow movement detection,eyebrow movement detection
+1021,ultra-wideband radar,ultra-wideband radar
+1022,reaction and cognitive function tests,reaction and cognitive function tests
+1023,hand pressure,hand pressure
+1024,clustering algorithm,clustering algorithm
+1025,behavioral monitoring,behavioral monitoring
+1026,seat-embedded piezoelectric sensors,seat-embedded piezoelectric sensors
+1027,sdl,sdl
+1028,infrared illumination,infrared illumination
+1029,vehicle trajectory analysis,vehicle trajectory analysis
+1030,optical flow,optical flow
+1031,kss fatigue self-assessment scale,kss fatigue self-assessment scale
+1032,speech signal,speech signal
+1033,valve-type semidry electrode,valve-type semidry electrode
+1034,facial expression analysis,facial expression analysis
+1034,facial expression recognition,facial expression analysis
+1035,vehicle's environment temperature,vehicle's environment temperature
+1036,video-based heart rate estimation,video-based heart rate estimation
+1037,blink features,blink features
+1037,blink-based features,blink features
+1038,mechanical sensor,mechanical sensor
+1039,eye opening and closing ratio,eye opening and closing ratio
+1040,blink frequency (bf),blink frequency (bf)
+1041,acceleration-based,acceleration-based
+1042,driver behavior,driver behavior
+1043,image processing-based techniques,image processing-based techniques
+1044,driver sleepiness score (dss),driver sleepiness score (dss)
+1045,mouth state,mouth state
+1046,eye-tracking signal,eye-tracking
+1046,eye tracking,eye-tracking
+1046,eye-tracking,eye-tracking
+1047,psychomotor vigilance test (pvt),psychomotor vigilance tests (pvt)
+1047,psychomotor vigilance tests (pvt),psychomotor vigilance tests (pvt)
+1047,psychomotor vigilance testing (pvt),psychomotor vigilance tests (pvt)
+1048,facial correlation feature fusion extraction network,facial correlation feature fusion extraction network
+1049,voice recordings,voice recordings
+1050,wrist-worn alertness device,wrist-worn alertness device
+1051,icaam-based facial analysis,icaam-based facial analysis
+1052,perception-related features,perception-related features
+1053,clutch pedal,clutch pedal
+1054,eye and mouth vertical distances,eye and mouth vertical distances
+1055,head posture,head posture
+1056,depth cameras,depth cameras
+1057,facial attributes,facial attributes
+1058,facial descriptors,facial descriptors
+1059,wavelet coefficients,wavelet coefficients
+1060,hf,hf
+1061,radar sensor,radar sensor
+1062,video analytics,video analytics
+1063,lane gap,lane gap
+1064,sagging posture,sagging posture
+1065,skin color pixels detection,human skin color detection
+1065,human skin color detection,human skin color detection
+1066,grayscale image processing,grayscale image processing
+1067,eye and lip motion detection,eye and lip motion detection
+1068,gyroscope-based head movement,gyroscope-based head movement
+1069,steering pattern analysis,steering pattern analysis
+1070,s-emg,s-emg
+1071,68-point face landmark identification,68-point face landmark identification
+1072,smartphone sensors,smartphone sensors
+1073,stereo vision,stereo vision
+1074,biomedical data acquisition,biomedical data acquisition
+1075,head motion detection,head motion detection
+1075,head movement detection,head motion detection
+1076,eyelid activity indicators,eyelid activity indicators
+1077,tracking error,tracking error
+1078,gaze variability,gaze variability
+1079,pedal and steering operation,pedal and steering operation
+1080,physiological sensors,physiological sensors
+1081,behavioral features,behavioral features
+1082,temperature difference,temperature difference
+1083,video signals,video signals
+1084,approximate entropy,approximate entropy
+1085,cardio-respiratory data,cardio-respiratory data
+1086,driver's kinematics analysis,driver's kinematics analysis
+1087,mouth opening degree,mouth opening degree
+1088,steering wheel movement,steering wheel movements
+1088,steering wheel movements,steering wheel movements
+1088,steering-wheel movement,steering wheel movements
+1088,wheel steering movements,steering wheel movements
+1089,tracking cameras,tracking cameras
+1090,colored and infrared eye features,colored and infrared eye features
+1091,eye signals,eye signals
+1092,adaboost cascade classifier,adaboost cascade classifier
+1093,geometric measurements of facial features,geometric measurements of facial features
+1094,consecutive eye closure frames,consecutive eye closure frames
+1095,wireless sensors,wireless sensors
+1096,local binary pattern analysis,local binary pattern analysis
+1097,abnormal eye-blinking,abnormal eye-blinking
+1098,raspberry pi cameras,raspberry pi cameras
+1099,context data,context data
+1100,skin-tone extraction,skin-tone extraction
+1101,eye location,eye location
+1102,yaw rate,yaw rate
+1103,eye blink counts,eye blink counts
+1103,count of eye blinking,eye blink counts
+1104,eye-blink video sequences,eye-blink video sequences
+1105,head non-positive face rate (hnfr),head non-positive face rate (hnfr)
+1106,equipment-based,equipment-based
+1107,sound recognition,sound recognition
+1108,eyelid state,eyelid state
+1109,cradle head tracking system,cradle head tracking system
+1110,facial scanning,facial scanning
+1111,blinking measurement,blinking measurement
+1112,eye state recognition via binoculus image,eye state recognition via binoculus image
+1113,pulse wave sensor,pulse wave sensor
+1114,breathing rate,breathing rate
+1114,breathing rate variability,breathing rate
+1114,respiratory rate,breathing rate
+1115,eye state analysis,eye state monitoring
+1115,eye state monitoring,eye state monitoring
+1115,eye monitoring,eye state monitoring
+1116,cascade object detection,cascade object detection
+1117,electrodermal reactions (edr),electrodermal reactions (edr)
+1118,self-rated scoring,self-rated scoring
+1119,infrared detectors,infrared detectors
+1120,facial movement analysis,facial movement analysis
+1120,facial motion analysis,facial movement analysis
+1121,longitudinal speed,longitudinal speed
+1122,steering wheel variables,steering wheel variables
+1123,eye-lid positions,eye-lid positions
+1124,respiration analysis,respiration analysis
+1125,movement,movement
+1126,vehicle-based methods,vehicle-based methods
+1127,video-based,video-based
+1128,imaging with ir light,imaging with ir light
+1129,actimetry,actimetry
+1130,eye state relative to eyelids,eye state relative to eyelids
+1131,gaze measurement,gaze measurement
+1132,motion sensor,motion sensor
+1133,driving simulator,driving simulator
+1133,driving simulation,driving simulator
+1134,gaze-bin analysis,gaze-bin analysis
+1135,lane excursion events,lane excursion events
+1136,near-infrared-ray (nir) camera,near-infrared-ray (nir) camera
+1137,vehicle-based performance data,vehicle-based performance data
+1138,eye closure via pupil area measurement,eye closure via pupil area measurement
+1139,eye state feature,eye state feature
+1140,blinking activity,blinking activity
+1141,eye feature variables,eye feature variables
+1142,slow eye movement (sem),slow eye movement (sem)
+1143,eye and mouth movements detection,eye and mouth movements detection
+1144,lane features,lane features
+1145,systolic blood pressure,systolic blood pressure
+1146,connectivity analysis,connectivity analysis
+1147,pressure,pressure
+1148,velocity of eyelid movements,velocity of eyelid movements
+1149,bio-signal,bio-signal
+1150,tracking performance,tracking performance
+1151,bio-parameters,bio-parameters
+1152,iris and pupil measurement,iris and pupil measurement
+1153,steering wheel,steering wheel control
+1153,steering control,steering wheel control
+1153,steering wheel control,steering wheel control
+1154,optical eye tracking (oet),optical eye tracking (oet)
+1155,attentional performance monitoring,attentional performance monitoring
+1156,lateral distance,lateral distance
+1157,psychomotor vigilance task,psychomotor vigilance task
+1157,psychomotor vigilance task performance,psychomotor vigilance task
+1158,body motion analysis,body motion analysis
+1159,body temperature,body temperature
+1160,inclination of the driver's head,inclination of the driver's head
+1161,remote cameras,remote cameras
+1162,berlin questionnaire,berlin questionnaire
+1163,sleepiness detection,sleepiness detection
+1164,physiological features,physiological features
+1165,steering features,steering features
+1165,steering operation features,steering features
+1166,gaze vector,gaze vector
+1167,functional network,functional network
+1168,blink times,blink times
+1168,blink time,blink times
+1169,rgb images,rgb images
+1170,yawn times,yawn times
+1171,brain waves,brain waves
+1172,electrophysiological methods,electrophysiological methods
+1173,steering movements,steering movements
+1173,steering behavior,steering movements
+1174,self-assessment fatigue results,self-assessment fatigue results
+1175,eyebrow shape,eyebrow shape
+1176,vehicle-based,vehicle-based
+1177,respiratory rhythm,respiratory rhythm
+1178,speech data,speech data
+1179,video sensing,video sensing
+1180,respiration period,respiration period
+1181,subjective measures,subjective measures
+1182,audio,audio
+1183,steering reaction,steering reaction
+1184,eyelid blinking,eye blinking
+1184,eye-blinking,eye blinking
+1184,eye blinking,eye blinking
+1185,skin color model,skin color model
+1186,deviation from the road,deviation from the road
+1187,john's drowsiness score (jds),john's drowsiness score (jds)
+1188,steering wheel angle sensor,steering wheel angle sensor
+1188,steering-wheel angle sensor data,steering wheel angle sensor
+1189,inertial sensors,inertial sensors
+1189,vehicle's inertial sensors,inertial sensors
+1190,dynamic threshold value for yawning,dynamic threshold value for yawning
+1191,mouth feature points curve fitting,mouth feature points curve fitting
+1192,driving operation data,driving operation data
+1193,infrared leds,infrared leds
+1194,video processing,video processing
+1195,ecg,ecg
+1196,subjective assessments,subjective assessments
+1197,eyes,eyes
+1198,latency to pupil constriction,latency to pupil constriction
+1199,accelerator,accelerator
+1200,speed,speed
+1201,head features,head features
+1202,skin electricity,skin electricity
+1203,computer vision-based facial analysis,computer vision-based facial analysis
+1204,sleep logs,sleep logs
+1205,object tracking,object tracking
+1206,camera images,camera images
+1207,remote photoplethysmography (rppg),remote photoplethysmography (rppg)
+1208,depth video sequences,depth video sequences
+1209,average eye closed time (aect),average eye closed time (aect)
+1210,neck posture,neck posture
+1211,frontal acceleration,frontal acceleration
+1212,horizontal projection,horizontal projection
+1213,image analysis,image analysis
+1214,pupillographic assessment,pupillography
+1214,pupillography,pupillography
+1215,hand acceleration,hand acceleration
+1216,eye orientation,eye orientation
+1217,mental fatigue data,mental fatigue data
+1218,behavioral,behavioral
+1219,self-reported sleepiness/alertness ratings,self-reported sleepiness/alertness ratings
+1219,self-reported sleepiness,self-reported sleepiness/alertness ratings
+1220,head angle,head angle
+1221,acoustic quality of voice,acoustic quality of voice
+1222,acceleration values,acceleration values
+1223,morphological operations,morphological operations
+1224,video-based behavioral analysis,video-based behavioral analysis
+1225,cognitive task,cognitive task
+1226,eye-opening,eye-opening
+1227,video-based eye closure,video-based eye closure
+1228,perclos detection,perclos detection
+1229,head posture detection,head posture detection
+1229,head posture recognition,head posture detection
+1229,head posture estimation,head posture detection
+1230,steering wheel movements (swm),steering wheel movements (swm)
+1231,mouth state feature,mouth state feature
+1232,eyelid aperture estimation,eyelid aperture estimation
+1233,pupillary unrest index,pupillary unrest index
+1234,gaze indicator,gaze indicator
+1235,pupil response,pupil response
+1236,facial multi-granularity feature extraction,facial multi-granularity feature extraction
+1237,amplitude of pupil constriction,amplitude of pupil constriction
+1238,eyeblink frequency,eyeblink frequency
+1239,eye movement behavior imagery,eye movement behavior imagery
+1240,pupil movement,pupil movement
+1241,d-ors,d-ors
+1242,sitting-pressure sensor,sitting-pressure sensor
+1243,eye openness estimation,eye openness estimation
+1244,infrared ccd camera,infrared ccd camera
+1245,eye index (ei),eye index (ei)
+1246,percentage of time with eyes closed,percentage of time with eyes closed
+1247,vehicle speed,vehicle speed
+1248,eyetracking,eyetracking
+1249,blood volume pulse,blood volume pulse
+1250,outside video streams,outside video streams
+1251,multiple sleep latency test (mslt),multiple sleep latency test (mslt)
+1252,physiological signals,physiological signals
+1253,vehicle motion parameters,vehicle motion parameters
+1254,visual,visual
+1255,standard deviation of steering wheel movement,standard deviation of steering wheel movement
+1256,facial action recognition,facial action recognition
+1257,polygraphs,polygraphs
+1258,eye state descriptors,eye state descriptors
+1259,fmcw radar,fmcw radar
+1260,kinect depth image,kinect depth image
+1261,postural control,postural control
+1262,eyelid opening,eyelid opening
+1263,face state (eyes and mouth),face state (eyes and mouth)
+1264,oxygen saturation,oxygen saturation
+1264,oxygen saturation level,oxygen saturation
+1265,steering data,steering data
+1266,self-reported fatigue feelings,self-reported fatigue feelings
+1267,viola-jones algorithm,viola-jones algorithm
+1268,polysomnography (psg),polysomnography (psg)
+1269,steering wheel grip strength,steering wheel grip strength
+1270,camera-based eye tracking,camera-based eye tracking
+1270,image-based eye tracking,camera-based eye tracking
+1271,facial landmarks extraction,facial landmarks extraction
+1272,distance sensor,distance sensor
+1273,eye localization,eye localization
+1274,near-infrared intensity,near-infrared intensity
+1275,eye movement scatter,eye movement scatter
+1276,vehicle lateral position,vehicle lateral position
+1277,eye aspects,eye aspects
+1278,heart rate time series,heart rate time series
+1279,obd unit,obd unit
+1280,wet electrode,wet electrode
+1281,actigraphy,actigraphy
+1282,photoplethysmograms,photoplethysmograms
+1282,photoplethysmogram,photoplethysmograms
+1283,closing eyes rate,closing eyes rate
+1284,face organ location,face organ location
+1285,camera-based image processing,camera-based image processing
+1286,galvanic skin conductance,galvanic skin conductance
+1287,theta/beta,theta/beta
+1288,physiological assessments,physiological assessments
+1289,heart beat detection,heart beat detection
+1290,biometric sensors,biometric sensors
+1291,facial aspect ratio,facial aspect ratio
+1292,perclos method,perclos method
+1293,lane-related signals,lane-related signals
+1294,heartbeat,heartbeat
+1295,facial near-infrared images,facial near-infrared images
+1296,video recordings of eyelid movements,video recordings of eyelid movements
+1297,pca method,pca method
+1298,facial structure detection,facial structure detection
+1299,lane wandering,lane wandering
+1300,eye and mouth information,eye and mouth information
+1301,hog feature,hog feature
+1302,capacitive electrocardiography,capacitive electrocardiography
+1303,visual detection,visual detection
+1304,nir face video,nir face video
+1305,facial orientation,facial orientation
+1306,physiological information,physiological information
+1307,yawning duration,yawning duration
+1308,polysomnogram,polysomnogram
+1309,eye closing time,eye closing time
+1310,velocity difference,velocity difference
+1311,three-axis accelerometer,three-axis accelerometer
+1312,motion data,motion data
+1313,blink information,blink information
+1314,bi-directional projection integral,bi-directional projection integral
+1315,mouth status,mouth status
+1316,blood oxygen level,blood oxygen level
+1317,real-time video analysis,real-time video analysis
+1318,eye landmarks,eye landmarks
+1319,eye movement data,eye movement analysis
+1319,eye movement analysis,eye movement analysis
+1320,equipment-based data acquisition,equipment-based data acquisition
+1321,reaction time measurements,reaction time measurements
+1322,steering wheel angular velocity,steering wheel angular velocity
+1323,gaze duration,gaze duration
+1324,image segmentation,image segmentation
+1325,eye behavior,eye behavior
+1326,skin color region distance extraction,skin color region distance extraction
+1327,facial video-based measurement,facial video-based measurement
+1328,eye-based,eye-based
+1329,video-based eye blinking measurement,video-based eye blinking measurement
+1330,facial video,facial videos
+1330,facial videos,facial videos
+1330,facial video recordings,facial videos
+1331,point hough transform,point hough transform
+1331,hough transform,point hough transform
+1332,head movement estimation,head movement estimation
+1332,head movement analysis,head movement estimation
+1333,image-based,image-based
+1334,color analysis,color analysis
+1335,heart measurement,heart measurement
+1336,eye contour parameters,eye contour parameters
+1337,facial action,facial action
+1338,doppler sensor,doppler sensor
+1339,eye tracing,eye tracing
+1340,real-time vehicle data,real-time vehicle data
+1341,vehicle telemetry data,vehicle telemetry data
+1342,eye dynamics,eye dynamics
+1343,particulate matter,particulate matter
+1344,facial skin-color analysis,facial skin-color analysis
+1345,speed analysis,speed analysis
+1346,forehead skin temperature,forehead skin temperature
+1347,blink number,blink number
+1348,lane holding,lane holding
+1349,facial element analysis,facial element analysis
+1350,fatigue questionnaires,fatigue questionnaires
+1351,infrared depth sensor,infrared depth sensor
+1352,thermal image processing,thermal image processing
+1353,steering input,steering input
+1354,throttle position,throttle position
+1355,visible-light camera,visible-light camera
+1356,rgb-d camera,rgb-d camera
+1357,gsm module,gsm module
+1358,saccade counts,saccade counts
+1359,steering wheel turns,steering wheel turns
+1360,head optical flow,head optical flow
+1361,image sensor,image sensor
+1362,vehicle trajectory data,vehicle trajectory data
+1363,electrooculography (eog),electrooculography (eog)
+1363,electrooculogram (eog),electrooculography (eog)
+1364,blood volume pulse vector (pbv),blood volume pulse vector (pbv)
+1365,lane departure data,lane departure data
+1365,lane data,lane departure data
+1366,reaction time assessment,reaction time assessment
+1366,reaction time tests,reaction time assessment
+1367,standard deviation of lateral position,standard deviation of lateral position
+1368,self-rated fatigue and sleepiness,self-rated fatigue and sleepiness
+1369,eye blink frequency,eye blink frequency
+1369,eye blinking frequency,eye blink frequency
+1370,steering wheel position,steering wheel position
+1371,head posture euler angle,head posture euler angle
+1372,gaze estimation,gaze estimation
+1372,gaze detection,gaze estimation
+1373,face landmark algorithm,face landmark algorithm
+1374,vehicular features,vehicular features
+1375,head sway,head sway
+1376,blink percentage,blink percentage
+1377,behavioural,behavioural
+1378,eye blink artifacts,eye blink artifacts
+1379,skin conductance,skin conduction
+1379,skin conductivity,skin conduction
+1379,skin conduction,skin conduction
+1380,lane heading,lane heading
+1381,horizontal acceleration,horizontal acceleration
+1382,head rotation,head rotation
+1383,self-centred gestures,self-centred gestures
+1384,steering-wheel grip pressure,steering-wheel grip pressure
+1385,entropy,entropy
+1386,perclos value,perclos value
+1387,head pose (hp),head pose (hp)
+1388,performance accuracy,performance accuracy
+1389,yawnfreq,yawnfreq
+1390,eye width analysis,eye width analysis
+1391,pupil-based metrics,pupil-based metrics
+1392,lane deviation monitoring,lane deviation monitoring
+1393,unscented kalman filter,unscented kalman filter
+1394,lane keeping characteristics,lane keeping characteristics
+1395,heart rate data,heart rate data
+1396,duration of fixation,duration of fixation
+1396,fixation durations,duration of fixation
+1397,head twisting movement,head twisting movement
+1398,mackworth clock task,mackworth clock task
+1399,mouth state recognition via corner points image,mouth state recognition via corner points image
+1400,pressure-based respiration sensor,pressure-based respiration sensor
+1401,steering wheel grip force measurement,steering wheel grip force measurement
+1402,validated pupillographic sleepiness test,validated pupillographic sleepiness test
+1403,histogram analysis,histogram analysis
+1404,pupil change,pupil change
+1405,lf/hf,lf/hf
+1406,electrocardiogram,electrocardiogram
+1407,head nod,head nod
+1408,camera-based,camera-based
+1409,palmpilot-based psychomotor vigilance task,palmpilot-based psychomotor vigilance task
+1410,accelerometry,accelerometry
+1411,head posture offset,head posture offset
+1412,emg,emg
+1413,posture information,posture information
+1413,posture monitoring,posture information
+1414,facial components,facial components
+1415,pupil area,pupil area
+1416,pupillary light reflex (plr),pupillary light reflex (plr)
+1417,gyroscopic signals,gyroscopic signals
+1418,speech processing,speech processing
+1419,facial morphological features,facial morphological features
+1420,facial gesture tracking,facial gesture tracking
+1421,vehicle dynamics data,vehicle dynamics data
+1422,imaging photoplethysmography (ippg),imaging photoplethysmography (ippg)
+1423,bio-signal sensors,bio-signal sensors
+1424,pressure sensors,pressure sensors
+1425,millimeter wave (mmw) radar,millimeter wave (mmw) radar
+1426,eye closing,eye closing
+1427,gps location,gps location
+1428,infrared reflectance oculography,infrared-reflectance oculography
+1428,infrared-reflectance oculography,infrared-reflectance oculography
+1429,behavioral measures,behavioral measures
+1430,built-in sensors,built-in sensors
+1431,image,image
+1432,eye characteristics,eye characteristics
+1433,head pitch angle,head pitch angle
+1434,driving behavior variables,driving behavior variables
+1435,mouth activity,mouth activity
+1436,wi-fi signal features,wi-fi signal features
+1437,closed eyes,closed eyes
+1438,speech emotion recognition,speech emotion recognition
+1439,facial landmark localization,facial landmark localization
+1440,vision-based techniques,vision-based techniques
+1441,temperature sensor,temperature sensor
+1442,eye detection,eye detection
+1443,sitting pressure,sitting pressure
+1444,video information,video information
+1445,pulse wave analysis,pulse wave analysis
+1446,camera-based data acquisition,camera-based data acquisition
+1447,facial landmark-based eye closure detection,facial landmark-based eye closure detection
+1448,facial detection,facial detection
+1448,face detection,facial detection
+1449,electrodermal activity (eda),electrodermal activity (eda)
+1450,oculography,oculography
+1451,head position tracking,head position tracking
+1452,facial expressions,facial expressions
+1453,alcohol sensor,alcohol sensor
+1454,eye state images,eye state images
+1455,facial coordinates extraction,facial coordinates extraction
+1456,infrared imaging,infrared imaging
+1456,thermal infrared imaging,infrared imaging
+1457,in-vehicle camera,in-vehicle camera
+1458,face alignment,face alignment
+1459,pulse rate,pulse rate
+1460,eyelid measures,eyelid measures
+1461,physiology,physiology
+1462,anti-saccades,anti-saccades
+1463,trajectory analysis,trajectory analysis
+1464,amplitude to velocity ratio,amplitude to velocity ratio
+1465,functional near-infrared spectroscopy,functional near-infrared spectroscopy
+1466,pupil reaction to light,pupil reaction to light
+1467,acceleration,acceleration
+1468,task load index (tli),task load index (tli)
+1469,infrared (ir) light,infrared (ir) light
+1470,driving performance assessments,driving performance assessments
+1471,machine vision,machine vision
+1472,vehicle running data,vehicle running data
+1473,vehicle information,vehicle information
+1474,activity data,activity data
+1475,perclos70-80-90%,perclos70-80-90%
+1476,eye movement indicators,eye movement indicators
+1477,near-infrared-ray,near-infrared-ray
+1478,reaction time (rt),reaction time (rt)
+1479,postural,postural
+1480,facial 3d keypoints,facial 3d keypoints
+1481,mouth opening rate (mor),mouth opening rate (mor)
+1482,steering angle,steering angle
+1483,heart variability,heart variability
+1484,mouth-yawn,mouth-yawn
+1485,hand gestures,hand gestures
+1486,facial thermal patterns,facial thermal patterns
+1487,sleepiness ratings (sss),sleepiness ratings (sss)
+1488,subjective sleepiness,subjective sleepiness
+1489,gabor wavelets,gabor wavelets
+1490,haar-like features approach,haar-like features approach
+1491,heart rate (hr),heart rate (hr)
+1492,eyelid distance,eyelid distance
+1492,distance of eyelid,eyelid distance
+1492,eyelid distance changes,eyelid distance
+1493,infrared video,infrared video
+1494,force applied to the steering wheel,force applied to the steering wheel
+1495,perclos-80,perclos-80
+1496,photoplethysmography (ppg),photoplethysmography (ppg)
+1496,photoplethysmography (ppg) signals,photoplethysmography (ppg)
+1496,photoplethysmographic (ppg),photoplethysmography (ppg)
+1497,tracking,tracking
+1498,facial information,facial information
+1499,steering wheel activity,steering wheel activity
+1500,eye condition analysis,eye condition analysis
+1501,acceleration readings,acceleration readings
